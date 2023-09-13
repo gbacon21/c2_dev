@@ -58,6 +58,8 @@ def session_handler():
 if __name__ == '__main__':
     sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     # set ip and port variables
-    host_ip = sys.argv[1]
-    host_port = int(sys.argv[2])
+    #host_ip = sys.argv[1]
+    #host_port = int(sys.argv[2])
+    host_ip = '127.0.0.1'
+    host_port = 2222
     session_handler()
