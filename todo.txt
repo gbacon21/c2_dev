@@ -1,4 +1,4 @@
-- Implement new encryption system other than b64 
+- Implement new encryption system other than b64 - PKI?
 - Add additional persistence techniques
 - Implement feature to drop into and exit from a local shell
 - Stealthy exfiltration techniques
