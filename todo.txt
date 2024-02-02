@@ -1,6 +1,11 @@
+<<<<<<< HEAD:todo
 - Implement new encryption system other than b64 
 - Create more robust error handling
 - Add additional (and more stealthy) persistence techniques
+=======
+- Implement new encryption system other than b64 - PKI?
+- Add additional persistence techniques
+>>>>>>> f2f43aa80070dcf3f1cdad4d9c99afa410ef74a6:todo.txt
 - Implement feature to drop into and exit from a local shell
 - Stealthy exfiltration techniques
 - Beaconing
